@@ -1,0 +1,17 @@
+#pragma once
+#include <iostream>
+#include <string>
+#include <vector>
+#include <functional>
+#include <SFML/Graphics.hpp>
+#include <SFML/Window.hpp>
+#include <SFML/System.hpp>
+#include <SFML/Audio.hpp>
+#include <SFML/Network.hpp>
+#include "Button.h"
+#include "InteractiveButton.h"
+#include "MainMenu.h"
+#include "InitGameStart.h"
+#include "InGame.h"
+#include "PauseMenu.h"
+#include "Game.h"
